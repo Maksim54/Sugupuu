@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<inimene synd="1926">
+    <nimi>Elizabeth II</nimi>
+    <synniaasta>1926</synniaasta>
+    <lapsed>
+        <inimene synd="1950">
+            <nimi>Anne, Princess Royal</nimi>
+            <synniaasta>1950</synniaasta>
+        </inimene>
+        <inimene synd="1960">
+            <nimi>Charles, Princess of Wales</nimi>
+            <synniaasta>1960</synniaasta>
+            <lapsed>
+                <inimene synd="1982">
+                    <nimi>William</nimi>
+                    <synniaasta>1982</synniaasta>
+                </inimene>
+                <inimene synd="1985">
+                    <nimi>Harry</nimi>
+                    <synniaasta>1985</synniaasta>
+                    <lapsed>
+                        <inimene>
+                            <nimi>test</nimi>
+                            <synniaasta>2021</synniaasta>
+                        </inimene>
+                    </lapsed>
+                </inimene>
+            </lapsed>
+        </inimene>
+        <inimene synd="1964">
+            <nimi>Edward, Earl of Wessex</nimi>
+            <synniaasta>1964</synniaasta>
+        </inimene>
+    </lapsed>
+</inimene>
